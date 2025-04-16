@@ -12,7 +12,7 @@ export const Home = () => {
             Hello Weebers
           </h1>
 
-          <p className="tex-gray-400 text-lg mb-8 w-175 mx-auto">
+          <p className="tex-gray-400 text-lg mb-8 w-full max-w-screen overflow-x-hidden mx-auto">
             Welcome to our creative hub! I'm Akshat Singh, and alongside my partner in crime, Karthik S Shamil, we form a dynamic duo driven by a passion for innovation.
             Together, we tackle diverse projects; from crafting web experiences and video games in Python to Video Editing. Join us on this journey of Magic and Tech!!
           </p>
