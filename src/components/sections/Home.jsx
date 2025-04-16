@@ -7,12 +7,12 @@ export const Home = () => {
       className="min-h-screen flex items-center justify-center relative"
     >
       <RevealOnScroll>
-        <div className="text-center z-10 px-4">
+        <div className="text-center z-10 px-4 max-w-6xl mx-auto">
           <h1 className="text-6xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-red-700 to-orange-500 bg-clip-text text-transparent leading-right">
             Hello Weebers
           </h1>
 
-          <p className="tex-gray-400 text-lg mb-8 vw-175 mx-auto">
+          <p className="tex-gray-100 text-lg mb-8 mx-auto">
             Welcome to our creative hub! I'm Akshat Singh, and alongside my partner in crime, Karthik S Shamil, we form a dynamic duo driven by a passion for innovation.
             Together, we tackle diverse projects; from crafting web experiences and video games in Python to Video Editing. Join us on this journey of Magic and Tech!!
           </p>
